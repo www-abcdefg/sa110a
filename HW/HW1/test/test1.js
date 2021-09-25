@@ -1,11 +1,23 @@
 import * as _ from '../some.js'
 import{assert} from "https://deno.land/std@0.108.0/testing/asserts.ts";
 Deno.test("some",()=>{
-    console.log("_.inRange(3,2,4) :",_.inRange(3,2,4))
-    console.log("_.inRange(4, 8) :",_.inRange(4, 8))
-    console.log("_.inRange(4, 2) :",_.inRange(4, 2))
-    console.log("_.inRange(2, 2) :",_.inRange(2, 2))
-    console.log("_.inRange(1.2, 2) :",_.inRange(1.2, 2))
-    console.log("_.inRange(5.2, 4) :",_.inRange(5.2, 4))
-    console.log("_.inRange(-3, -2, -6) :",_.inRange(-3, -2, -6))
+    _.some([null, 0, 'yes', false], Boolean);
+    // => true
+     
+    var users = [
+      { 'user': 'barney', 'active': true },
+      { 'user': 'fred',   'active': false }
+    ];
+     
+    // The `_.matches` iteratee shorthand.
+    _.some(users, { 'user': 'barney', 'active': false });
+    // => false
+     
+    // The `_.matchesProperty` iteratee shorthand.
+    _.some(users, ['active', false]);
+    // => true
+     
+    // The `_.property` iteratee shorthand.
+    _.some(users, 'active');
+    // => true
     })
