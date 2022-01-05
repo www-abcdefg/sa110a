@@ -18,7 +18,7 @@
 [第三週](https://github.com/www-abcdefg/sa110a/blob/master/note/%E7%AC%AC%E4%B8%89%E9%80%B1%E7%AD%86%E8%A8%98.md) | 20210311 | 正規軍 (瀑布模式)<br> 特種部隊 (螺旋模式)<br>  git flow<br> github flow操作步驟<br>  git branch<br> 專案同步<br> 參考資料<br>
 [第四週](https://github.com/www-abcdefg/sa110a/blob/master/note/%E7%AC%AC%E5%9B%9B%E9%80%B1%E7%AD%86%E8%A8%98.md) | 20210318 | pull request步驟<br> 發佈到deno<br> git tag<br> 參考資料<br> 
 [第五週](https://github.com/www-abcdefg/sa110a/blob/master/note/%E7%AC%AC%E4%BA%94%E9%80%B1%E7%AD%86%E8%A8%98.md) | 20210326 | 亂數 <br> 雜湊<br>  雜湊值必須符合兩個主要條件<br>  區塊鏈<br>  參考資料<br> 
-[第六週]https://github.com/www-abcdefg/sa110a/blob/master/note/%E7%AC%AC%E5%85%AD%E9%80%B1%E7%AD%86%E8%A8%98.md) | 20210401 | 偽隨機性<br> 蒙地卡羅法<br> 馬可夫鏈 (Markov chain)<br> 數學架構<br>參考資料<br>
+[第六週](https://github.com/www-abcdefg/sa110a/blob/master/note/%E7%AC%AC%E5%85%AD%E9%80%B1%E7%AD%86%E8%A8%98.md) | 20210401 | 偽隨機性<br> 蒙地卡羅法<br> 馬可夫鏈 (Markov chain)<br> 數學架構<br>參考資料<br>
 [第七週](https://github.com/www-abcdefg/sa110a/blob/master/note/%E7%AC%AC%E4%B8%83%E5%91%A8%E7%AD%86%E8%A8%98.md) | 20210415 | 軟體專案<br>系統分析<br>
 [第八週](https://github.com/www-abcdefg/sa110a/blob/master/note/%E7%AC%AC%E5%85%AB%E9%80%B1%E7%AD%86%E8%A8%98.md) | 20210415 | 學習電腦運作原理依序課程<br> CMOS<br> CMOS與BIOS的關係<br> 人腦設計IC的過程<br> 軟硬體協同設計<br> FGPA<br> IC為下列三列<br> Quine-McCluskey (QM) Method<br> Heuristic Espresso Method<br> Physical Design Automation<br> 參考資料<br>
 [第九週](https://github.com/www-abcdefg/sa110a/blob/master/note/%E7%AC%AC%E4%B9%9D%E9%80%B1%E7%AD%86%E8%A8%98.md) | 20210422 | 
