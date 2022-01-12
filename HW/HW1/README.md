@@ -1,5 +1,7 @@
 # Hw1
 ## 實作loadash內之函數，利用傳統作法、BDD、TDD的方式進行實作
+### 聲明
+* 程式和測試不會的有去詢問徐仁鴻同學後由為自己寫上
 ### 傳統做法:sumby
 * 先寫程式再寫測試
 * [sumby.js](https://github.com/www-abcdefg/sa110a/blob/master/HW/HW1/sumby.js)
@@ -68,24 +70,6 @@ export function sortedLastIndexOf(Array, value) {
 
 ### TDD:size
 * 先寫測試再寫程式
-* [size.js](https://github.com/www-abcdefg/sa110a/blob/master/HW/HW1/size.js)
-```
-export function size(collection) {
-    if(collection instanceof Object){
-        var counts=0;
-        for(var co in collection){
-            if(Object.prototype.hasOwnProperty.call(collection, co)){
-                counts++;
-            }
-        }
-        return counts;
-    }
-    if(collection instanceof Array){
-        return collection.length;
-    }
-    return collection.length;
-}
-```
 * [test3.js](https://github.com/www-abcdefg/sa110a/blob/master/HW/HW1/test/test3.js)
 ```
 
@@ -105,6 +89,24 @@ Deno.test("size", () => {
     assertEquals(_.size({ 'a': 1, 'b': 2 }), 2)
     assertEquals(_.size("pebbles"), 7)
   })
+```
+* [size.js](https://github.com/www-abcdefg/sa110a/blob/master/HW/HW1/size.js)
+```
+export function size(collection) {
+    if(collection instanceof Object){
+        var counts=0;
+        for(var co in collection){
+            if(Object.prototype.hasOwnProperty.call(collection, co)){
+                counts++;
+            }
+        }
+        return counts;
+    }
+    if(collection instanceof Array){
+        return collection.length;
+    }
+    return collection.length;
+}
 ```
 * 執行結果
 
