@@ -1,7 +1,7 @@
 # Hw1
 ## 實作loadash函數，用傳統作法、BDD、TDD的方式進行實作
 ### 聲明
-* 程式和測試不會的有去詢問徐仁鴻同學後由為自己寫上
+* 程式和測試不會的有去詢問徐仁鴻同學後由自己寫上
 ### 傳統做法:sumby
 * 先寫程式再寫測試
 * [sumby.js](https://github.com/www-abcdefg/sa110a/blob/master/HW/HW1/sumby.js)
