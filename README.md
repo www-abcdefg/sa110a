@@ -21,7 +21,7 @@
 [第六週](https://github.com/www-abcdefg/sa110a/blob/master/note/%E7%AC%AC%E5%85%AD%E9%80%B1%E7%AD%86%E8%A8%98.md) | 20211020 | 偽隨機性<br> 蒙地卡羅法<br> 馬可夫鏈 (Markov chain)<br> 數學架構<br>參考資料<br>
 [第七週](https://github.com/www-abcdefg/sa110a/blob/master/note/%E7%AC%AC%E4%B8%83%E5%91%A8%E7%AD%86%E8%A8%98.md) | 20211027 | 軟體專案<br>系統分析<br>
 [第八週](https://github.com/www-abcdefg/sa110a/blob/master/note/%E7%AC%AC%E5%85%AB%E9%80%B1%E7%AD%86%E8%A8%98.md) | 20211103 | 學習電腦運作原理依序課程<br> CMOS<br> CMOS與BIOS的關係<br> 人腦設計IC的過程<br> 軟硬體協同設計<br> FGPA<br> IC為下列三列<br> Quine-McCluskey (QM) Method<br> Heuristic Espresso Method<br> Physical Design Automation<br> 參考資料<br>
-[第九週](https://github.com/www-abcdefg/sa110a/blob/master/note/%E7%AC%AC%E4%B9%9D%E9%80%B1%E7%AD%86%E8%A8%98.md) | 20211110 | 
+[第九週](https://github.com/www-abcdefg/sa110a/blob/master/note/%E7%AC%AC%E4%B9%9D%E9%80%B1%E7%AD%86%E8%A8%98.md) | 20211110 | RISC-V處理器<br> RISC-V處理器的架構<br> CSR暫存器<br> RISC-V常見指令集<br> RISC-V的指令格式<br> RV32M的乘除法指令<br> 浮點指令集<br> 64位元指令集<br> 單指令流多資料流<br> 參考資料<br>
 [第十週](https://github.com/www-abcdefg/sa110a/blob/master/note/%E7%AC%AC%E5%8D%81%E9%80%B1%E7%AD%86%E8%A8%98.md) | 20211117 | 作業系統<br> 臨界區間<br> RISC-V<br> xv6 的檔案系統有七個層次<br> inode 的結構<br> 參考資料<br>
 [第十一週](https://github.com/www-abcdefg/sa110a/blob/master/note/%E7%AC%AC%E5%8D%81%E4%B8%80%E9%80%B1%E7%AD%86%E8%A8%98.md) | 20211124 | xv6<br> 行程控制區<br> 呼叫 read() 時，行程會中斷換別人嗎？<br> 時間中斷<br> 死結<br> superblock<br> UNIX 是如何做到一切皆檔案的？<br> 參考資料<br>
 [第十二週](https://github.com/www-abcdefg/sa110a/blob/master/note/%E7%AC%AC%E5%8D%81%E4%BA%8C%E9%80%B1%E7%AD%86%E8%A8%98.md) | 20211201 | 避免C語言陷阱的方法<br> MSYS2<br> 基本陷阱<br> 指標陷阱<br> 參數傳遞<br> 提高品質<br> 參考資料<br>
