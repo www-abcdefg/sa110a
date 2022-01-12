@@ -12,6 +12,7 @@
 ## 學期上課內容
 ### 聲明
 * 上課學習筆記皆由自己看完老師上課影片內容所寫，筆記中有從其他地方截取的圖片和查詢的資料等內容皆在當週結尾有附上參考資料
+* [授權聲明](https://github.com/www-abcdefg/ai109b/blob/main/LICENSE.md)
 # 學習筆記
 週次 | 日期 | 內容
 ---- | ---- | ----
@@ -33,5 +34,4 @@
 [第十六週](https://github.com/www-abcdefg/sa110a/blob/master/note/%E7%AC%AC%E5%8D%81%E5%85%AD%E9%80%B1%E7%AD%86%E8%A8%98.md) | 20211229 | 傅立葉轉換<br> 沃爾什轉換<br> 泛函分析<br> 黎曼積分<br> 參考資料<br>
 [第十七週](https://github.com/www-abcdefg/sa110a/blob/master/note/%E7%AC%AC%E5%8D%81%E4%B8%83%E9%80%B1%E7%AD%86%E8%A8%98.md) | 20220105 | 資料結構<br> 演算法<br> 計算理論<br> 參考資料<br>
 
-# 授權聲明
-* [授權聲明](https://github.com/www-abcdefg/ai109b/blob/main/LICENSE.md)
+
