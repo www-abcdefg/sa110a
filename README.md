@@ -12,7 +12,7 @@
 ## 學期上課內容
 ### 聲明
 * 上課學習筆記皆由自己看完老師上課影片內容所寫，筆記中有從其他地方截取的圖片和查詢的資料等內容皆在當週結尾有附上參考資料
-* [授權聲明](https://github.com/www-abcdefg/ai109b/blob/main/LICENSE.md)
+* [授權聲明](https://github.com/www-abcdefg/sa110a/blob/master/LICENSE.md)
 # 學習筆記
 週次 | 日期 | 內容
 ---- | ---- | ----
