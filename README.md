@@ -25,11 +25,11 @@
 [第十週](https://github.com/www-abcdefg/sa110a/blob/master/note/%E7%AC%AC%E5%8D%81%E9%80%B1%E7%AD%86%E8%A8%98.md) | 20211117 | 作業系統<br> 臨界區間<br> RISC-V<br> xv6 的檔案系統有七個層次<br> inode 的結構<br> 參考資料<br>
 [第十一週](https://github.com/www-abcdefg/sa110a/blob/master/note/%E7%AC%AC%E5%8D%81%E4%B8%80%E9%80%B1%E7%AD%86%E8%A8%98.md) | 20211124 | xv6<br> 行程控制區<br> 呼叫 read() 時，行程會中斷換別人嗎？<br> 時間中斷<br> 死結<br> superblock<br> UNIX 是如何做到一切皆檔案的？<br> 參考資料<br>
 [第十二週](https://github.com/www-abcdefg/sa110a/blob/master/note/%E7%AC%AC%E5%8D%81%E4%BA%8C%E9%80%B1%E7%AD%86%E8%A8%98.md) | 20211201 | 避免C語言陷阱的方法<br> MSYS2<br> 基本陷阱<br> 指標陷阱<br> 參數傳遞<br> 提高品質<br> 參考資料<br>
-[第十三週]() | 2021208 | 
+[第十三週](https://github.com/www-abcdefg/sa110a/blob/master/note/%E7%AC%AC%E5%8D%81%E4%B8%89%E9%80%B1%E7%AD%86%E8%A8%98.md) | 2021208 | 迭代法<br> 勞侖次吸引子<br> 快速排序<br> 編輯距離<br> 隱藏式馬可夫模型<br> 分割擊破<br> 動態規劃<br> 參考資料<br>
 [第十四週](https://github.com/www-abcdefg/sa110a/blob/master/note/%E7%AC%AC%E5%8D%81%E5%9B%9B%E9%80%B1%E7%AD%86%E8%A8%98.md) | 20211215 | RSA演算法<br> 貪婪演算法<br> 圖形演算法<br> 深度優先搜尋<br> 廣度優先搜尋<br> 最佳優先搜尋<br> 參考資料<br>
 [第十五週](https://github.com/www-abcdefg/sa110a/blob/master/note/%E7%AC%AC%E5%8D%81%E4%BA%94%E9%80%B1%E7%AD%86%E8%A8%98.md) | 20211222 | 輾轉相除法<br> 黎曼猜想<br> 歐拉公式<br> 週期函數<br> 傅立葉轉換<br> 傅立葉級數<br> 參考資料<br>
 [第十六週](https://github.com/www-abcdefg/sa110a/blob/master/note/%E7%AC%AC%E5%8D%81%E5%85%AD%E9%80%B1%E7%AD%86%E8%A8%98.md) | 20211229 | 傅立葉轉換<br> 沃爾什轉換<br> 泛函分析<br> 黎曼積分<br> 參考資料<br>
-[第十七週]() | 20220105 | 
+[第十七週](https://github.com/www-abcdefg/sa110a/blob/master/note/%E7%AC%AC%E5%8D%81%E4%B8%83%E9%80%B1%E7%AD%86%E8%A8%98.md) | 20220105 | 資料結構<br> 演算法<br> 計算理論<br> 參考資料<br>
 
 # 授權聲明
 * [授權聲明](https://github.com/www-abcdefg/ai109b/blob/main/LICENSE.md)

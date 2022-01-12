@@ -2,7 +2,7 @@
 ## 實作loadash內之函數，利用傳統作法、BDD、TDD的方式進行實作
 ### 傳統做法:sumby
 * 先寫程式再寫測試
-* [sumby.js]()
+* [sumby.js](https://github.com/www-abcdefg/sa110a/blob/master/HW/HW1/sumby.js)
 ```
 export function sumBy(Array, iteratee) {
     var sum=0;
@@ -12,7 +12,7 @@ export function sumBy(Array, iteratee) {
     return sum;
 }
 ```
-* [test1.js]()
+* [test1.js](https://github.com/www-abcdefg/sa110a/blob/master/HW/HW1/test/test1.js)
 ```
  import * as _ from '../sumby.js'
 
@@ -29,7 +29,7 @@ console.log(b)
 ```
 * 執行結果
 
-![pic]()
+![pic](https://github.com/www-abcdefg/sa110a/blob/master/pic/hw1/test1.png)
 
 ## BDD:sortedLastIndexOf
 * 先寫規格，再寫測試，最後再寫程式
@@ -38,7 +38,7 @@ console.log(b)
 // _.sortedLastIndexOf([4, 5, 5, 5, 6], 5);
 // => 3
 ```
-* [test2.js]()
+* [test2.js](https://github.com/www-abcdefg/sa110a/blob/master/HW/HW1/test/test2.js)
 ```
 import * as _ from "../sortedLastIndexOf.js";
 import{assert} from "https://deno.land/std@0.108.0/testing/asserts.ts"
@@ -51,7 +51,7 @@ Deno.test("sortedLastIndexOf", () => {
   })
 
 ```
-* [sortedLastIndexOf.js]()
+* [sortedLastIndexOf.js](https://github.com/www-abcdefg/sa110a/blob/master/HW/HW1/sortedLastIndexOf.js)
 ```
 export function sortedLastIndexOf(Array, value) {
   for(var i = Array.length-1; i>=0; i--){
@@ -64,11 +64,11 @@ export function sortedLastIndexOf(Array, value) {
 ```
 * 執行結果
 
-![pic]()
+![pic](https://github.com/www-abcdefg/sa110a/blob/master/pic/hw1/test2.png)
 
 ### TDD:size
 * 先寫測試再寫程式
-* [size.js]()
+* [size.js](https://github.com/www-abcdefg/sa110a/blob/master/HW/HW1/size.js)
 ```
 export function size(collection) {
     if(collection instanceof Object){
@@ -86,7 +86,7 @@ export function size(collection) {
     return collection.length;
 }
 ```
-* [test3.js]()
+* [test3.js](https://github.com/www-abcdefg/sa110a/blob/master/HW/HW1/test/test3.js)
 ```
 
 import * as _ from '../size.js';
@@ -108,4 +108,4 @@ Deno.test("size", () => {
 ```
 * 執行結果
 
-![pic]()
+![pic](https://github.com/www-abcdefg/sa110a/blob/master/pic/hw1/test3.png)
